@@ -6,5 +6,6 @@ I built this website to learn React.js and Django Rest Framework
 Technologies that I used:
 - React.js
 - Django Rest Framework (REST Api)
+- Heroku (website hosting)
 - Stripe (for credit card acceptance)
 - SCCS
